@@ -6,7 +6,7 @@ This is a plug and play Plugin that adds an slerp function to the interpolation 
 
 Installation Guide:
 
-1) Download the P_SLerp folder
+1) Download P_SLerp.zip and extract the P_SLerp Folder
 2) Navigate to your Ploject in the explorer
 3) If not existing, create a folder named "Plugins"
 4) Paste the P_SLerp folder inside
